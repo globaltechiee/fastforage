@@ -1,2 +1,2 @@
 # fastforage
-Mushroom picker help with fastai
+Mushroom Classification with fastai
