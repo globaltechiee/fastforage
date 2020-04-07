@@ -7,3 +7,4 @@ Picking up wild mushrooms is an exciting pastime but it can be dangerous if you 
 Right now this classifier is trained with 4 classes. 3 edible: Penny Bun (белый гриб), Brown Cap (подберёзовик) and Saffron milk cap (рыжик) and 1 poisonous: Amanita (мухомор). 
 
 
+![This is a mushroom you want](penny.jpg)
